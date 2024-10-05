@@ -1,6 +1,5 @@
 package school.repository.mongo;
 
-import static org.junit.Assert.*;
 import static school.repository.mongo.StudentRepositoryMongo.SCHOOL_DB_NAME;
 import static school.repository.mongo.StudentRepositoryMongo.STUDENTS_COLLECTION_NAME;
 
